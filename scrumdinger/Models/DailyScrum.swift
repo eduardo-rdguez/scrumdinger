@@ -29,19 +29,19 @@ extension DailyScrum {
             title: "Desing",
             attendees: ["Cathy", "Daisy"],
             lentgthInMinutes: 4,
-            theme: .indigo
+            theme: .seafoam
         ),
         DailyScrum(
             title: "Development",
             attendees: ["Edu", "Katie", "Gray", "Euna"],
             lentgthInMinutes: 4,
-            theme: .teal
+            theme: .custom_teal
         ),
         DailyScrum(
             title: "Product",
             attendees: ["Chris", "Christina", "Eden", "Karla"],
             lentgthInMinutes: 8,
-            theme: .purple
+            theme: .periwinkle
         ),
         DailyScrum(
             title: "QA",
