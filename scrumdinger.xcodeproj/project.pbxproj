@@ -16,6 +16,7 @@
 		7370EAE82B62F09100EBBC96 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7370EAE72B62F09100EBBC96 /* CardView.swift */; };
 		7370EAEA2B632E2900EBBC96 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7370EAE92B632E2900EBBC96 /* TrailingIconLabelStyle.swift */; };
 		73807A3F2B6B01DA00445D9A /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73807A3E2B6B01DA00445D9A /* ScrumsView.swift */; };
+		73807A412B732C8E00445D9A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73807A402B732C8E00445D9A /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7370EAE72B62F09100EBBC96 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		7370EAE92B632E2900EBBC96 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		73807A3E2B6B01DA00445D9A /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		73807A402B732C8E00445D9A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				7370EAD12B61D2EA00EBBC96 /* ScrumdingerApp.swift */,
 				7370EAD32B61D2EA00EBBC96 /* MeetingView.swift */,
 				73807A3E2B6B01DA00445D9A /* ScrumsView.swift */,
+				73807A402B732C8E00445D9A /* DetailView.swift */,
 				7370EAE72B62F09100EBBC96 /* CardView.swift */,
 				7370EAD82B61D2EC00EBBC96 /* Preview Content */,
 				7370EAE92B632E2900EBBC96 /* TrailingIconLabelStyle.swift */,
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7370EAE62B62EC0200EBBC96 /* DailyScrum.swift in Sources */,
+				73807A412B732C8E00445D9A /* DetailView.swift in Sources */,
 				7370EAEA2B632E2900EBBC96 /* TrailingIconLabelStyle.swift in Sources */,
 				7370EAE42B62E93D00EBBC96 /* Theme.swift in Sources */,
 				7370EAD42B61D2EA00EBBC96 /* MeetingView.swift in Sources */,
